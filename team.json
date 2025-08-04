@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Chairman Chairson III",
+        "role": "Council Chair",
+        "description": "Leads the company with a vision for global travel. Ensures all travel destinations are properly lodged within the couch cushions for easy access.",
+        "fact": "Found his chair at a garage sale, it was quite a deal!"
+    },
+    {
+        "name": "Jun Gle",
+        "role": "CTM",
+        "description": "Council's Teemo main. Ensures there is a Teemo in every decision processed by the travel council to ensure that all travel destinations are on planet Earth.",
+        "fact": "Disappointed there's not an 'i' in Team or Teemo."
+    },
+    {
+        "name": "Sam",
+        "role": "CAT",
+        "description": "Council's defense force to ensure they are undisturbed during meetings and processes.",
+        "fact": "Not a very good defense force."
+    }
+]
